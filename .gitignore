@@ -1,0 +1,14 @@
+.gradle/
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/dictionaries
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/sbt.xml
+.idea/sonarlint/
+.idea/
+build/
+gradle/
